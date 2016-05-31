@@ -1,4 +1,4 @@
 # tiea345_IoT
 
 1. demo
-  1. kaikki tehty (bonukset myös)
+  [x] kaikki tehty (bonukset myös)
